@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://your-backend-name.onrender.com",
+  baseURL: "https://cashflow-backend-xm62.onrender.com",
 });
 
 export default API;
