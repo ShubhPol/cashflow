@@ -1,0 +1,8 @@
+pdfplumber
+fastapi
+uvicorn
+python-dotenv
+langchain
+langgraph
+openai
+pandas
